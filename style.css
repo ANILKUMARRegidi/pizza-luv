@@ -1,0 +1,695 @@
+body{
+    overflow-x: hidden;
+    height: auto;
+}
+.title{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;   
+    padding:2em;
+    width:121.7em;
+    background: #000;
+    position: sticky;
+    top:0;
+    overflow-y: hidden;
+    flex-wrap:nowrap;
+} p{
+    padding-right:2em;
+}
+.pr{
+    color: #FFF;
+    text-align: center;
+    font-family: Ruda;
+    font-size: 29px;
+    padding-top:0.5em;
+    align-items: center;
+    padding-left:2.5em;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 0px; /* 0% */
+    letter-spacing: 1.74px;
+}
+.items p{
+    color: #FFF;
+text-align: center;
+font-family: Ruda;
+font-size: 24px;
+font-style: normal;
+font-weight: 300;
+line-height: 0px; /* 0% */
+}
+.items{
+    padding-right:20em;
+    align-items: center;
+    padding-top:1em;
+    display: flex;
+}
+.items a{
+    text-decoration: none;
+}
+.ll{
+        color: #FFF;
+        font-family: Ruda;
+        font-size: 25px;
+        width:22em;
+        padding-left:0.5em;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 40px; /* 160% */
+        letter-spacing: 2.25px;"
+}
+.au{
+        color: #FFF;
+        text-align: center;
+        font-family: Quattrocento;
+        font-size: 60px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 0px; /* 0% */
+}
+.cont{
+            color: #FFF;
+            font-family: Ruda;
+            font-size: 25px;
+            font-style: normal;
+            font-weight: 400;
+            line-height: 40px; /* 160% */
+            letter-spacing: 2.25px;
+}
+
+.icons i{
+  padding-right:1em;
+  align-items: center;
+}
+.pic3{
+    
+}
+.hero{
+        background-image: url("Asserts/pizza1\ 1.svg");
+        color: #FFF;
+        padding:4em;
+        width:121.7em;
+        height: max-content;
+}
+.crav{
+       color: #FFF;
+        text-align: center;
+        font-family: Quattrocento;
+        font-size: 101px;
+        font-style: normal;
+        font-weight: 700;
+        width:10em;
+        padding-top:0.7em;
+        line-height: 108.5px; /* 107.426% */
+        letter-spacing: 9.09px;
+}
+.cont{
+    width:22em;
+}
+.dough{
+    padding-top:4.5em;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.main{
+    margin-top:em;
+    padding-top:2em;
+    width:121.7em;
+    background: #000;
+}
+.abt{
+    display: flex;
+    flex-direction:column;
+    justify-content: center;
+}
+.rec img{
+    display: flex;
+    justify-content:center;
+}
+.rec{
+    padding-left:37em;
+}
+.pizza{
+    display:flex;
+}
+.pizza1{
+    display: flex;
+}
+.loi{
+    color: #F2C94C;
+    font-family: Ruda;
+    font-size: 28px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 0px; /* 0% */
+}
+.lip{
+    color: #FFF;
+    font-family: Ruda;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    width:20em;
+    line-height: 40px; /* 200% */
+    letter-spacing: 1.8px;
+}
+.menu{
+    display: flex;
+    justify-content: center;
+    margin-top:4em;
+    color: #FFF;
+    padding:0.3em;
+        text-align: center;
+        font-family: Quattrocento;
+        font-size: 60px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 0px; /* 0% */
+}
+.pic3{
+    padding-top:2em;
+    padding-right:4em;
+}
+.l1{
+    padding-left:38em;
+}
+.rmp{
+    width:60em;
+    padding-top:1em;
+    color: #FFF;
+    align-items: center;
+    font-family: Ruda;
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    font-style: normal;
+    padding-left:12em;
+    font-weight: 400;
+    line-height: 40px; /* 160% */
+    letter-spacing: 2.25px;
+}
+.menume{
+    padding-left:
+}
+.lolipop{
+    padding-top:4em;
+    padding-left:1em;
+    align-items: center;
+}
+.row1{
+    display: flex;
+    align-items: center;
+    font-size:10px;
+    padding-left:30em;
+}
+.box1{
+    display: flex;
+    font-size:10px;
+    padding:2em;
+}
+.car{
+    align-items: center;
+}
+#carouselExampleIndicators{
+    padding-right:16em;
+    padding-left:16em;
+    padding-top:10em;
+}
+.carousel-indicators{
+    align-items: center;
+}
+.gbm{
+    padding-top:2em;
+    align-items: center;
+}
+.gbm p{
+    color: #FFF;
+    text-align: center;
+     align-items: center;
+    font-family: Quattrocento;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 400;
+    padding:0.5em;
+    line-height: 0px; /* 0% */
+}
+.gbm img{
+    padding-left:41em;
+    padding-bottom: 3em;
+}
+.gallery {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 16px;
+    padding-left:20em;
+}
+
+.gallery-item1{
+    border-radius: 8px;
+    height: 25em;
+    width:40em;
+    padding-left:10em;
+}
+.gallery-item img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transition: transform 0.3s ease-in-out;
+}
+
+.gallery-item:hover img {
+    transform: scale(1.1);
+}
+.find{
+    color: #FFF;
+        text-align: center;
+        font-family: Quattrocento;
+        font-size: 60px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 0px; /* 0% */
+}
+.local{
+    display: flex;
+    padding-left:10em;
+    margin:0;
+}
+.last{
+    padding-top:10em;
+}
+.last img{
+    padding-left:22em;
+    padding-top:2em;
+}
+.foot{
+    display:flex;
+    justify-content: space-between;
+    padding-left: 10em;
+    padding-right:10em;
+}
+.mail{
+    display:flex;
+     justify-content:space-between;
+    align-items:center;
+    padding:1em  1em 1.5em 1em;
+}
+.mail p{
+    color: #FFF;
+    text-align: center;
+    font-family: Ruda;
+    font-size: 20px;
+    font-style: normal;
+     font-weight: 400;
+     padding-left:1em;
+     padding-top:0.7em;
+     line-height: 40px; /* 200% */
+     letter-spacing: 1.8px;
+}
+.gi{
+    padding-right:30em;
+}
+#bip{
+    width:38em;border-radius:3;
+}
+#lim{
+    padding-left:15em;
+}
+#one{
+    border-radius:2;
+}
+#two{
+    height: 8em; 
+    width: 12em; 
+    padding:2px;
+    border-radius:2;
+}
+#three{
+    height: 9em; 
+    width: 12em;
+    padding:2px;
+    border-radius:2;
+}
+#four{
+    height: 8em;
+     width: 12em;
+     padding:2px;
+     border-radius:2;
+}
+#five{
+    width: 20em;
+     height: 12.6em;
+}
+#six{
+    height: 12.8em; 
+    width: 20em;
+}
+.phone{
+    display:flex;
+    justify-content:space-between;
+     align-items:center;
+     padding-left:1.5em;
+}
+.phone p{
+    color: #FFF;
+    font-family: Ruda;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 40px; /* 200% */
+    letter-spacing: 1.8px;
+    padding-right:6em;
+    margin:0;
+}
+.phone img{
+    padding: 0;
+    margin: 0;
+}
+.map{
+    padding:5em 2em 2em 2em;
+}
+footer{
+    margin-top:0em;
+    margin-bottom:20em;
+}
+.fli{
+    color: #FFF;
+    font-family: Ruda;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    width:30em;
+     padding:3em 3em 1em 3em;
+     line-height: 40px; /* 160% */
+     letter-spacing: 2.25px;
+}
+.floc{
+    display:flex;
+    padding-left:3.5em;
+}
+.imp{
+    padding-left:3.5em;
+}
+.address{
+    color: #FFF;
+    font-family: Ruda;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    padding-left:1em;
+    padding-top:0.6em;
+    line-height: 40px; /* 200% */
+    letter-spacing: 1.8px;
+}
+.rx{
+    display: flex;
+    color: #FFF;
+    font-family: Ruda;
+     font-size: 20px;
+    font-style: normal;
+     font-weight: 700;
+    padding-top:2em;
+    line-height: 40px; /* 200% */
+    letter-spacing: 1.8px;
+}
+.pnm{
+    align-items:center;
+    padding-left:2em;
+}
+@media  screen and (max-width: 480px) {
+    
+body{
+    height: auto;
+    
+}
+nav{
+    width:90vw;
+    
+}
+.title{
+    display: flex;
+    flex-direction: column;
+    overflow-x: hidden;
+    padding:2em;
+    width:102.5em;
+    height:28em;
+}
+.items a p{
+    font-size:2.5em;
+    padding-top:1em;
+    display: flex;
+    justify-content: center;
+    flex-wrap:wrap;
+    overflow-x:visible;
+    font-weight: 600;
+    padding-right:1.5em;
+    letter-spacing: normal;
+    line-height: normal;
+    line-break: auto;
+}
+.items{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    word-spacing: normal;
+    white-space:nowrap;
+    padding:1.5em;
+    margin:1em;
+    overflow-x: hidden;
+}
+.icons{
+    display: flex;
+    justify-content: center;
+    padding-top:1.5em;
+    padding-bottom:2em;
+    font-size:2.5em;
+}
+ .pr{
+    font-size:5em;
+    display: flex;
+    padding-top:1.5em;
+    padding-bottom:0.5em;
+    flex-direction: row;
+    justify-content:left;
+    color:#FFF;
+    flex-wrap: wrap;
+}
+.hero{
+    width:102.5em;
+    height:52em;
+    display: flex;
+    flex-direction: column;
+    margin:0;
+    padding:2em;
+}
+.ll{
+    font-size:3em;
+    display: flex;
+    font-weight: 600;
+    justify-content:center;
+    align-items: center;
+    line-height: normal;
+}
+.pic1{
+    padding-right:6em;
+    width:70em;
+}
+.crav{
+    font-size:5em;
+    line-height: normal;
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    font-weight: 700;
+    letter-spacing: normal;
+    justify-content: center;
+    width:25em;
+    padding-right:10em;
+}
+.hero{
+    background-image: url(./Asserts/pizza1\ 1.svg); /* Replace 'your-image.jpg' with the actual path to your image */
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.au{
+    font-size:5em;
+    font-weight: 700;
+    align-items: center;
+    padding-right:4em;
+}
+.dough{
+    display: flex;
+    flex-direction: column;
+    font-size:em;
+    padding-top:0;
+}
+.main{
+    padding:0;
+    margin:0;
+    overflow-x: hidden;
+    overflow-y: hidden;
+}
+.cont{
+    align-items: center;
+    padding:1em;
+    margin-right:7em;
+    line-height: normal;
+    letter-spacing: normal;
+    font-size:4em;
+}
+.row1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-right:70em;
+}
+.box1 img{
+    height:40em;
+    width:60em;
+}
+.pic3{
+  width:87em;
+  margin-left:2em;
+}
+.id{
+    padding-right:
+}
+.rec{
+    padding-left:31em;
+    padding-top:1em;
+}
+.pic2{
+    width:84em;
+    margin-left:0em;
+    margin-right:24em;
+}
+.menu{
+    font-size:5em;
+    align-items: center;
+    padding-right:2em;
+}
+.l1{
+    padding-left:32em;
+    padding-top:2em;
+    font-weight: 500;
+}
+.rmp{
+    font-size:4em;
+    width:fit-content;
+    margin-right:2em;
+    letter-spacing: normal;
+    word-spacing: normal;
+    line-height: normal;
+    padding-right:5.5em;
+    padding-left:1em;
+}
+.pizza{
+    font-size:4em;
+    width:5.5em;
+    padding-right:1em;
+    padding-left:2em;
+    height:20em;
+    display: flex;
+    flex-direction:column;
+}
+.pz1{
+    font-size:7em;
+    width:3.1em;
+    display: flex;
+    margin-bottom:5em;
+    flex-direction:column;
+}
+.menume{
+    display: flex;
+    flex-direction:column;
+    padding-left:1.5em;
+    
+}
+.lolipop{
+    padding-top:16em;
+    width:70em;
+    height:60em;
+    padding-left:2em;
+}
+.loi{
+    font-size:7em;
+    padding-left:10px;
+    padding-bottom:10px;
+}
+.lip{
+    font-size:4em;
+    padding-top:1em;
+}
+.car{
+    padding-right:70em;
+    margin-right:20em;
+    width:160em;
+    height:100em;
+    padding-bottom:20em;
+}
+.gbm{
+    padding:0;
+}
+#rrr {
+    padding-left:30em;
+  }
+  
+.gallery{
+    width:100%;
+    height:auto;
+    padding:0;
+    margin-left:10em;
+}
+.gallery-item {
+    width: 100%; /* Make each item take up the full width */
+    height: auto;
+     /* Adjust the height accordingly */
+  }
+  
+  .gallery-item img {
+    width: 100%; /* Make the images fill the container */
+    height: auto;
+  }
+  #bip img{
+    height:26em;
+  }
+  #lim{
+    padding-left:2.5em;
+  }
+  .local{
+    display:flex;
+    flex-direction: column;
+    margin:0;
+    padding:0;
+    height: fit-content;
+  }
+  .fli,.pnm{
+    font-size:1em;
+  }
+  .fli{
+    padding-bottom:6em;
+  }
+ .adloc{
+    padding-bottom:50em;
+ }
+ .address{
+    padding-bottom:0em;
+    height: auto;
+ }
+ .imp{
+    padding-bottom:25em;
+ }
+ .rx{
+    padding-bottom:30em;
+ }
+ .foot{
+    padding-bottom:30em;
+ }
+  footer{
+    overflow: auto;
+    height: auto;
+    margin:0;
+    padding-bottom:10em;
+  }
+}
